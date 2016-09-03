@@ -1,3 +1,3 @@
 # Python-HomeWork
-This My Python HomeWork
+Python HomeWork
 Any edit
